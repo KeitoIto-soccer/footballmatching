@@ -1,0 +1,9 @@
+body{
+  background-image:url('soccer.3.jpg');
+  background-position:right;
+  background-repeat: no-repeat;
+  background-size: 500px;
+}
+.form-control{
+  width:600px;
+}

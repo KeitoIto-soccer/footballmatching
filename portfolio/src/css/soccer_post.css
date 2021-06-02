@@ -1,0 +1,9 @@
+
+  body{
+    width:500px;
+    height:500px;
+    background-image:url('soccer.7.jpg');
+    background-position: center;
+    background-size: 300px;
+    background-repeat: no-repeat;
+  }

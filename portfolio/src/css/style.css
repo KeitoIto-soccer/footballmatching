@@ -1,0 +1,16 @@
+header{
+ width:100%;
+ height:70px;
+ background-color: whitesmoke;
+}
+.header-logo{
+  font-size:40px;
+  color:red;
+  float:left;
+  padding:20px;
+}
+
+.menu a{
+  padding:30px;
+  color:blue;
+}
